@@ -1,4 +1,4 @@
-x= 10
+print("Not x")
 y = 20
 print(x+y)
 print("Hello, i am Saurabh Pandey!")
